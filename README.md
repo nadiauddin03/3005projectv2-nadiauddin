@@ -11,8 +11,8 @@ This project is an overview of creating a database application for a health and 
 Some of the bonuses implemented included creating view tables and formatting the style of the text font and color scheme. I created assumptions based off of what each function was supposed to do and how this would be applied to each area.
 
 To install the modules, use the following:
-pip install psycopg2
-pip install emoji
+pip install psycopg2,
+pip install emoj,
 pip install fontstyle
 
 Use the database.py application to start the program and interact with the user. The DDM and DDL files are used to create the database, functions, and tables. In order for your connection with PostgresQL, make sure you add in your own environment credentials and create the database beforehand so that it exists when connecting.
