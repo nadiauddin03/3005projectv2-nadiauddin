@@ -8,4 +8,4 @@ This project is an overview of creating a database application for a health and 
 5. dml.sql
 6. functions.sql
 
-Some of the bonuses implemented included creating view tables and formatting the style of the text font and color scheme. I created assumptions based off of 
+Some of the bonuses implemented included creating view tables and formatting the style of the text font and color scheme. I created assumptions based off of what each function was supposed to do and how this would be applied to each area.
